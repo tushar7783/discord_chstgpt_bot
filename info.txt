@@ -1,0 +1,2 @@
+1)using platform.openai you can get the openaikey  you can go to Api_key and create an key 
+2)using discord/developer/appication and create a new application after then click url genrator then genrate the url and paste in ser and try to connect (you can watch the video on youtube )  
